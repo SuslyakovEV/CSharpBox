@@ -1,0 +1,11 @@
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\bin\Debug\netcoreapp2.1\TicTacToeGame.deps.json
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\bin\Debug\netcoreapp2.1\TicTacToeGame.runtimeconfig.json
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\bin\Debug\netcoreapp2.1\TicTacToeGame.runtimeconfig.dev.json
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\bin\Debug\netcoreapp2.1\TicTacToeGame.dll
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\bin\Debug\netcoreapp2.1\TicTacToeGame.pdb
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\obj\Debug\netcoreapp2.1\TicTacToeGame.csprojAssemblyReference.cache
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\obj\Debug\netcoreapp2.1\TicTacToeGame.csproj.CoreCompileInputs.cache
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\obj\Debug\netcoreapp2.1\TicTacToeGame.AssemblyInfoInputs.cache
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\obj\Debug\netcoreapp2.1\TicTacToeGame.AssemblyInfo.cs
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\obj\Debug\netcoreapp2.1\TicTacToeGame.dll
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\TicTacToeGame\obj\Debug\netcoreapp2.1\TicTacToeGame.pdb

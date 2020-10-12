@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonachiApp", "FibonachiAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexNumbers", "ComplexNumbers\ComplexNumbers.csproj", "{EBF1A451-5568-4157-978C-54AA67ABC8A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{640259C9-E246-453F-852D-5AE41F48B0C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{640259C9-E246-453F-852D-5AE41F48B0C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeGame", "TicTacToeGame\TicTacToeGame.csproj", "{7DE207CA-2203-4EAF-8EB8-D4B7BC72643B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{640259C9-E246-453F-852D-5AE41F48B0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{640259C9-E246-453F-852D-5AE41F48B0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{640259C9-E246-453F-852D-5AE41F48B0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE207CA-2203-4EAF-8EB8-D4B7BC72643B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE207CA-2203-4EAF-8EB8-D4B7BC72643B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE207CA-2203-4EAF-8EB8-D4B7BC72643B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE207CA-2203-4EAF-8EB8-D4B7BC72643B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
