@@ -1,0 +1,12 @@
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\bin\Debug\netcoreapp2.1\WordsStockRus.txt
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\bin\Debug\netcoreapp2.1\HangmanGame.deps.json
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\bin\Debug\netcoreapp2.1\HangmanGame.runtimeconfig.json
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\bin\Debug\netcoreapp2.1\HangmanGame.runtimeconfig.dev.json
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\bin\Debug\netcoreapp2.1\HangmanGame.dll
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\bin\Debug\netcoreapp2.1\HangmanGame.pdb
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\obj\Debug\netcoreapp2.1\HangmanGame.csprojAssemblyReference.cache
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\obj\Debug\netcoreapp2.1\HangmanGame.csproj.CoreCompileInputs.cache
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\obj\Debug\netcoreapp2.1\HangmanGame.AssemblyInfoInputs.cache
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\obj\Debug\netcoreapp2.1\HangmanGame.AssemblyInfo.cs
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\obj\Debug\netcoreapp2.1\HangmanGame.dll
+E:\SandBoxGit\CSharpBox\CSharpSolution\CSHSolution\HangmanGame\obj\Debug\netcoreapp2.1\HangmanGame.pdb
