@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1231
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonachiApp", "FibonachiApp\FibonachiApp.csproj", "{66596F05-5D87-4703-A814-233187F879BD}"
 EndProject
@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeGame", "TicTacToeGame\TicTacToeGame.csproj", "{7DE207CA-2203-4EAF-8EB8-D4B7BC72643B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame", "HangmanGame\HangmanGame.csproj", "{4366136F-FA48-42BA-B839-01AC36F79D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangmanGame", "HangmanGame\HangmanGame.csproj", "{4366136F-FA48-42BA-B839-01AC36F79D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{91966E38-C67B-4FB4-946D-33BA70518146}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4366136F-FA48-42BA-B839-01AC36F79D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4366136F-FA48-42BA-B839-01AC36F79D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4366136F-FA48-42BA-B839-01AC36F79D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91966E38-C67B-4FB4-946D-33BA70518146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91966E38-C67B-4FB4-946D-33BA70518146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91966E38-C67B-4FB4-946D-33BA70518146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91966E38-C67B-4FB4-946D-33BA70518146}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
